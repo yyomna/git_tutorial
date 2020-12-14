@@ -1,4 +1,3 @@
-//This is my first commit comment
 //Include ros library
 #include <ros.h>
 //Include message class
