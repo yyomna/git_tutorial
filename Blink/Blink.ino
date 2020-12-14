@@ -2,7 +2,6 @@
 //Include ros library
 #include <ros.h>
 //Include message class
-//
 #include <std_msgs/Empty.h>
 
 //Create The NodeHandle to access functions
